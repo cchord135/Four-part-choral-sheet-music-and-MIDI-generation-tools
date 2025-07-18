@@ -78,7 +78,7 @@ rest*2    # 休止 2 拍
 你可以复制同一个模板内容调整音区或旋律，即可完成所有声部录入。
 
 ✅ 文件夹命名示例
-Z:\Newbot\player\source\
+C:\player\source\
 ├── 00001_圣哉三一歌\
 │   ├── soprano.txt
 │   ├── alto.txt
